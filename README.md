@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings!
+I'm currently in the process of renovating my personal Github space. <br>
+I'm about to publish the complete results from my first data science project.<br>
+I'll certainly send out an update, once it's complete.  
+
 
 <!--
 **DanHerman212/danherman212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
