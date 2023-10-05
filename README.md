@@ -1,12 +1,13 @@
 ### Greetings!
-I'm currently in the process of renovating my personal Github space. <br>
-I'm about to publish the complete results from my first data science project.<br>
-I'll certainly send out an update, once it's complete.  
+Thank you for taking the time to visit my personal GitHub Space. <br>
+<br>
+I'm a data scientist based in NYC.  I've been training since November 2022 and aim to build a portfolio of interesting projects to identify current technologies and techniques to achieve meaningful insights from complex datasets.<br>
+<br>
+Below you can find a summary of projects that were completed recently:<br>
 
-|Project     |Description          |URL               |
-|------------|---------------------|------------------|
-|OUD Treatment Outcome| Observed 1300 patients in treatment for Opioid Use Disorder for 24 weeks.  A machine learning model was built to predict treatment outcomes that performed with 92% accuracy.  The model was interpreted to show key features that contributed to patient outcomes to identify risk signals to improve treatment on a personal level|[oud outcome repo](https://github.com/DanHerman212/oud_treatment_outcome)
-|                     |We analyzed
+| <div style="width:200px">Project</div> |<div style="width:200px">Description</div>|<div style="width:200px">Project URL</div>|
+| ---------------------------------------| ------------------------------------- |-------------------------------------|
+| `Opioid Use Disorder Treatment Outcome`|I created a dataset from scratch, based off of the publicly available data set [CTN-0027](https://datashare.nida.nih.gov/study/nida-ctn-0027). A machine learning model was built to predict treatment outcomes at 92% accuracy.  The model was trained on observations for 1300 patients over 24 weeks of treatment|[OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcomeg)
 <!--
 **DanHerman212/danherman212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
