@@ -7,7 +7,7 @@ Below you can find a summary of projects that were completed recently:<br>
 
 | <div style="width:200px">Project</div> |<div style="width:200px">Description</div>|<div style="width:200px">Project URL</div>|
 | ---------------------------------------| ------------------------------------- |-------------------------------------|
-| `Opioid Use Disorder Treatment Outcome`|I created a dataset from scratch, based off of the publicly available data set [CTN-0027](https://datashare.nida.nih.gov/study/nida-ctn-0027). A machine learning model was built to predict treatment outcomes at 92% accuracy.  The model was trained on observations for 1300 patients over 24 weeks of treatment|[OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcomeg)
+| `Opioid Use Disorder Treatment Outcome`|I created a dataset from scratch, based off of the publicly available data set [CTN-0027](https://datashare.nida.nih.gov/study/nida-ctn-0027). A machine learning model was built to predict treatment outcomes at 92% accuracy.  The model was trained on observations for 1300 patients over 24 weeks of treatment|[OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome)
 <!--
 **DanHerman212/danherman212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
