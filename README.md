@@ -1,4 +1,4 @@
-### Greetings!
+<font size="6">**Welcome**!</font><br>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
 I'm a data scientist based in NYC.  I've been training since November 2022 and aim to build a portfolio of interesting projects to identify current technologies and techniques to achieve meaningful insights from complex datasets.<br>
