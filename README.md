@@ -3,7 +3,10 @@ I'm currently in the process of renovating my personal Github space. <br>
 I'm about to publish the complete results from my first data science project.<br>
 I'll certainly send out an update, once it's complete.  
 
-
+|Project     |Description          |URL               |
+|------------|---------------------|------------------|
+|OUD Treatment Outcome| Observed 1300 patients in treatment for Opioid Use Disorder for 24 weeks.  A machine learning model was built to predict treatment outcomes that performed with 92% accuracy.  The model was interpreted to show key features that contributed to patient outcomes to identify risk signals to improve treatment on a personal level|[oud outcome repo](https://github.com/DanHerman212/oud_treatment_outcome)
+|                     |We analyzed
 <!--
 **DanHerman212/danherman212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
