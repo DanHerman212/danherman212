@@ -3,7 +3,7 @@
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
 I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.
-Below you can find a portfolio of projects that shows the skills I've built during this time.  If you have any questions, please feel free to reach me at dan.herman@me.com.<br>
+Below you can find a portfolio of projects that shows the skills I've built during this time.  If you have any questions, please feel free to reach me at dan.herman@me.com<br>
 <br>
 Below you can find a summary of projects that were completed recently:<br></font>
 
