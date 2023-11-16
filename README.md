@@ -2,11 +2,10 @@
 <br>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech, building explainable AI systems, that extract value from data.  Prior to data science, I worked in high value b2b tech sales, where I have 18 years of experience.  I specialized in helping early stage companies scale into complex markets.  
+I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech, building explainable AI systems, that extract value from data.  Prior to data science, I worked in high value b2b tech sales, where I have 18 years of experience.  I specialized in helping early stage companies scale into complex markets and helped 6 different companies reach their expansion goals.
 
-Below you'll find a table with different projects covering different technologues I've studied.  If you have any questions, please feel free to reach me at dan.herman@me.com.<br>
+Below you'll find a table with different projects covering different technologues I've studied.  If you have any questions, please feel free to reach me at dan.herman@me.com. <br>
 <br>
-Below you can find a summary of projects that were completed recently:<br></font>
 
 |Project | Description | Technologies | Repository|
 | --- | --- | --- | --- |
