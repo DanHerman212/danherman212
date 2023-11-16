@@ -9,6 +9,6 @@ Below you can find a summary of projects that were completed recently:<br></font
 
 |Project | Description | Technologies | Repository|
 | --- | --- | --- | --- |
-| OUD Treatment Outcome | Machine Learning - Binary Classification | XGBoost | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome)
-| NYC Real Estate |Machine Learning Neural Net | Tensorflow | Coming Soon...|
-| Clinical Text Classification | Zero Shot Learning with LLMs| Hugging Face | Coming Soon...|
+| OUD Treatment Outcome | Machine Learning - Binary Classification |[XGBoost](https://xgboost.readthedocs.io/en/stable/index.html)<br>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<br>[SKLearn](https://scikit-learn.org/stable/)<br>[SHAP](https://shap.readthedocs.io/en/latest/) | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome)
+| Sequences, Time Series and Prediction |[Recurrent Neural Net for Timeseries](https://www.tensorflow.org/tutorials/structured_data/time_series) | [Tensorflow](https://www.tensorflow.org/) | Coming Soon...|
+| Sequence Models and Literature | [Text and Natural Language Processing](https://www.tensorflow.org/tutorials/text)| Tensorflow](https://www.tensorflow.org/) | Coming Soon...|
