@@ -7,6 +7,16 @@ I'm a data scientist based in NYC and I've been studying and practicing data sci
 Below you'll find a table with different projects covering different technologies I'm trained in.  If you have any questions, please feel free to reach me at dan.herman@me.com. <br>
 <br>
 
-|Project | Description | Technologies | Repository|
+| Topic | Description | Technologies | Repository |
+| :---: | :--- | :--- | :--- |
+| Healthcare | Predicting Treatment Outcomes for Opioid Use Disorder | [XGBoost](https://xgboost.readthedocs.io/en/stable/index.html)<br>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<br>[SKLearn](https://scikit-learn.org/stable/)<br>[SHAP](https://shap.readthedocs.io/en/latest/) | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome) |
+| Law Enforcement | Predicting Response Outcome To Crime in Los Angeles | Coming Soon | Comming Soon |
+| Corporate Travel | Using geospacial data to identify the closest travel endpoints for Large Corporate Travel programs | Coming Soon | Coming Soon |
 | --- | --- | --- | --- |
-| OUD Treatment Outcome | Machine Learning - Binary Classification |[XGBoost](https://xgboost.readthedocs.io/en/stable/index.html)<br>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<br>[SKLearn](https://scikit-learn.org/stable/)<br>[SHAP](https://shap.readthedocs.io/en/latest/) | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome)
+
+
+  - Measuring treatment efficacy early in treatment, identifying risks, improving treatment outcomes.  
+
+ - Predicting response outcome to crime, improving response outcomes, increasing safety.
+
+Corporate Travel - Using geospacial data to identify the closest travel endpoints within program to increase compliance, reduce cost, improve customer retention
