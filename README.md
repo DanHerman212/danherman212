@@ -2,7 +2,7 @@
 <br>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech and enjoy software engineering. I've built particular skills around the following subj
+I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech and enjoy software engineering. I've built particular skills around the following subject areas:
 - Data Manipulation - Build complex datasets and AI systems to make predictions.
 - Software Engineering - I have experience with Django and the Django Rest Framework (DRF).
 - Machine Learning - I have spent a good amount of hours building deep learning models with TensorFlow, particularly Keras.  I have significant experience using XGBoost for Tabular Data, particularly for classification problems.  I have also trained in machine learning with the statistics package statsmodels particularly OLS.  I've also used the Pingouin a Python statistics package, based on Pandas and NumPy.
