@@ -5,7 +5,7 @@
 I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech and enjoy software engineering. I've built particular skills around the following subject areas:
 - Data Manipulation - Build complex datasets and AI systems to make predictions.
 - Software Engineering - I have experience with Django and the Django Rest Framework (DRF).
-- Machine Learning - I have spent a good amount of hours building deep learning models with TensorFlow, particularly Keras.  I have significant experience using XGBoost for Tabular Data, particularly for classification problems.  I have also trained in machine learning with the statistics package statsmodels particularly OLS.  I've also used the Pingouin a Python statistics package, based on Pandas and NumPy.
+- Machine Learning - I have spent a good amount of hours building deep learning models with TensorFlow, particularly Keras.  I have significant experience using XGBoost for Tabular Data, particularly for classification problems.  I have also trained in machine learning with the statistics package statsmodels particularly OLS.  And finally, Pingouin a Python statistics package, based on Pandas and NumPy.
 - Other Learning Paths - Angular and Django-Angular Integration, AWS Elastic Beanstalk, Time Series Forecasting (Neuralforecast), PySpark Big Data Sandbox (or possibly use Databricks PySpark)
 
 For the past 6 months, I've been working with complex datasets that measure performance. I am efficient in building complex datasets designed to fit machine learning algorithms, to make predictions for outcomes, with the purpose to improve performance. 
