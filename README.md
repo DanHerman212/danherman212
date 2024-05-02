@@ -5,7 +5,7 @@
 I'm a data scientist based in NYC and I've been studying and practicing data science for the past year.  I'm very hands on with tech and enjoy software engineering. 
 - Build complex datasets and AI systems to make predictions.
 - Software Engineering - I have experience with Django and the Django Rest Framework (DRF).
-- Other Learning Paths - Next on the Roadmap is AWS Elastic Beanstalk, Time Series Forecasting, Building A Big Data Sandbox (or possibly use Databricks PySpark)
+- Other Learning Paths - Angular and Django-Angular Integration, AWS Elastic Beanstalk, Time Series Forecasting (Neuralforecast), PySpark Big Data Sandbox (or possibly use Databricks PySpark)
 
 Prior to data science, I worked in high value b2b tech sales, where I have 18 years of experience.  I specialized in helping early stage companies scale into complex markets. I was part of 6 different teams that successfully reached their expansion goals.
 
