@@ -10,6 +10,8 @@ If you have any questions, please feel free to connect!
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dan.herman@me.com)
 
+<font size="8"><b><center>Personal Project Portfolio Repos</center></b></font>
+
 | Topic | Description | Technologies | Repository |
 | :---: | :--- | :--- | :--- |
 | Healthcare | Predicting Treatment Outcomes for Opioid Use Disorder | [XGBoost](https://xgboost.readthedocs.io/en/stable/index.html)<br>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<br>[SKLearn](https://scikit-learn.org/stable/)<br>[SHAP](https://shap.readthedocs.io/en/latest/) | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome) |
