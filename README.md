@@ -6,7 +6,7 @@ I'm a data scientist based in NYC and I've been studying and practicing data sci
 
 If you have any questions, please feel free to connect!  
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danherman/)
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dan.herman@me.com)
 
