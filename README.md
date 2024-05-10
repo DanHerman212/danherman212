@@ -23,5 +23,5 @@ If you have any questions, please feel free to connect!
 | Topic | Description | Technologies | Repository |
 | :---: | :--- | :--- | :--- |
 | Healthcare | Predicting Treatment Outcomes for Opioid Use Disorder | [XGBoost](https://xgboost.readthedocs.io/en/stable/index.html)<br>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<br>[SKLearn](https://scikit-learn.org/stable/)<br>[SHAP](https://shap.readthedocs.io/en/latest/) | [OUD Outcome](https://github.com/DanHerman212/oud_treatment_outcome) |
-| Law Enforcement | Predicting Response Outcome To Crime in Los Angeles | Coming Soon | Comming Soon |
+| Law Enforcement | Predicting Response Outcome To Crime in Los Angeles | Coming Soon | [Los Angeles Crime](https://github.com/DanHerman212/los_angeles_crime) |
 | Corporate Travel | Using geospacial data to identify the closest travel endpoints for Large Corporate Travel programs | Coming Soon | Coming Soon |
