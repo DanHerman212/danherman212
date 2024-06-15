@@ -22,7 +22,6 @@ Prior to data science, I worked in high value b2b tech sales, where I have 18 ye
 If you have any questions, please feel free to connect!  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danherman/)
-
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dan.herman@me.com)
 
 <font size="6"><b><center>Personal Project Portfolio Repos</center></b></font>
