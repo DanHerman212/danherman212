@@ -18,6 +18,18 @@ Prior to data science, I worked in high value b2b tech sales, where I have 18 ye
 ![numpy](https://img.shields.io/badge/-numpy-013243?logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-3b5998?logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/-seaborn-9cf)
+![Ddjango](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
+![flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
+![html](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![aws](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
+![tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+
 
 If you have any questions, please feel free to connect!  
 
