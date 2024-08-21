@@ -40,6 +40,6 @@ If you have any questions, please feel free to connect!
 <font size="4"><b><center>Projects Are Updated Regularly</center></b></font>
 | Topic | Description | Repository |
 | :---: | :---------- | :--------- | 
-| HealthCare | Precision Medicine: Improving Treatment for Opioid Use Disorder (OUD) with Machine Learning | [Precision Medicine](https://github.com/DanHerman212/precision_medicine) | 
+| Healthcare | Precision Medicine: Improving Treatment for Opioid Use Disorder (OUD) with Machine Learning | [Precision Medicine](https://github.com/DanHerman212/precision_medicine) | 
 | Law Enforcement | Analyze Los Angeles Crime Against the National Crime Index | [Los Angeles Crime](https://github.com/DanHerman212/los_angeles_crime) |
 | Disaster Relief | Message Clasification During Natural Disaster | [Message Classification](https://github.com/DanHerman212/nlp_project)  |
