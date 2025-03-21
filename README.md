@@ -3,7 +3,7 @@
 </font>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-I'm a data scientist and software engineering, based in NYC, completely self taught.
+I'm a data scientist and software engineering, based in NYC, completely self taught.<br>
 <br>
 For this year, I will be focused on building projects on Google Cloud Platform and AWS using good MLOPs principals.  As I complete projects, I will create guides to share resources and best practice.<br>
 <br>
