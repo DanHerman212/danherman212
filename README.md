@@ -6,8 +6,8 @@
 I'm a data scientist focused primarily on building production machine learning systems.<br>
 I'm in the process of building a portfolio of solutions.  I will share as much as I can
 here, where permitted.
-<br>
-I welcome opportunities to collaborate, share knowledge and provide mentorship. <br>
+<br><br>
+I welcome opportunities to collaborate, share knowledge and provide mentorship.
 
 </font>
 
