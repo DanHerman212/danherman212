@@ -4,7 +4,7 @@
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
 I'm a data scientist focused primarily on building production machine learning systems.<br>
-I'm in the process of building a portfolio of solutions.  I will share as much as I can<br>
+I'm in the process of building a portfolio of solutions.  I will share as much as I can
 here, where permitted.
 <br>
 
