@@ -3,9 +3,11 @@
 </font>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-I'm a data scientist and software engineer, based in NYC, completely self taught.<br>
+I'm a data scientist focused primarily on building production machine learning systems.<br>
+I'm in the process of building a portfolio of solutions.  I will share as much as I can<br>
+here, where permitted.
 <br>
-For this year, I will be focused on building projects on Google Cloud Platform and AWS using good MLOPs principals.  As I complete projects, I will create guides to share resources and best practice.<br>
+
 <br>
 I welcome opportunities to collaborate, share knowledge and provide mentorship. <br>
 
