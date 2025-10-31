@@ -3,7 +3,6 @@
 </font>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-<<<<<<< HEAD
 I'm a data scientist and machine learning engineer.  I enjoy developing end to end ML solutions<br>
 using TensorFlow, Keras and Google Cloud Platform. <br>
 <br>
@@ -16,13 +15,11 @@ I'm very passionate about democratizing AI to anyone who is interested in bringi
 | **Image Classification with Covnets from Scratch** <br> **Transfer Learning** <br> **Fine Tuning** |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | **Sequence Modeling with Transformers** <br> **Generative AI** <br> |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 -->
-=======
 I'm a data scientist focused primarily on building production machine learning systems.<br>
 I'm in the process of building a portfolio of solutions.  I will share as much as I can
 here, where permitted.
 <br><br>
 I welcome opportunities to collaborate, share knowledge and provide mentorship.
->>>>>>> 0f81555b0bb37e0a61562a4ad50c90080e6b2001
 
 ## <span style="color:Blue">Production Deployment Workflows</span><br> <span style="color:red">Google Cloud Platform<br>
 | Project | Dataset| Repository | Video Tutorial |
@@ -36,8 +33,3 @@ Streaming Data Piplines on Google Cloud | NYC Realtime<bR> Subway Updates | Comi
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danherman/)<br>
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dan.herman@me.com)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 0f81555b0bb37e0a61562a4ad50c90080e6b2001
