@@ -15,11 +15,6 @@ I'm very passionate about democratizing AI to anyone who is interested in bringi
 | **Image Classification with Covnets from Scratch** <br> **Transfer Learning** <br> **Fine Tuning** |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | **Sequence Modeling with Transformers** <br> **Generative AI** <br> |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 -->
-I'm a data scientist focused primarily on building production machine learning systems.<br>
-I'm in the process of building a portfolio of solutions.  I will share as much as I can
-here, where permitted.
-<br><br>
-I welcome opportunities to collaborate, share knowledge and provide mentorship.
 
 ## <span style="color:Blue">Production Deployment Workflows</span><br> <span style="color:red">Google Cloud Platform<br>
 | Project | Dataset| Repository | Video Tutorial |
