@@ -19,7 +19,7 @@ I'm very passionate about democratizing AI to anyone who is interested in bringi
 ## <span style="color:Blue">Production Deployment Workflows</span><br> <span style="color:red">Google Cloud Platform<br>
 | Project | Dataset| Repository | Video Tutorial |
 |----------|----------|:--------:|:--------:|
-Streaming Data Piplines on Google Cloud | NYC Realtime<bR> Subway Updates | Coming Soon | Coming Soon|
+Streaming Data Piplines on Google Cloud | NYC Realtime<bR> Subway Updates | [Streaming Data Pipelines](https://github.com/DanHerman212/streaming-systems) | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
 ### I welcome opportunities to <span style=color:orange>collaborate</span>, share knowledge and provide mentorship.</span> <br>
