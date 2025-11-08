@@ -6,7 +6,7 @@
 I'm a data scientist and machine learning engineer.  I enjoy developing end to end ML solutions<br>
 using TensorFlow, Keras and Google Cloud Platform. <br>
 <br>
-I'm very passionate about democratizing AI to anyone who is interested in bringing it into their work.<br>  I'm going to systematically add production recipes here over time and always look to improve existing projects.  With that said, please monitor any repo for consistent updates and feel free to reach out with any questions.
+I'm very passionate about democratizing AI to anyone who is interested in bringing it into their work.<br>  I'm going to systematically add production recipes here over time and always look to improve existing projects.  With that said, please monitor any repo of interest as you can exepct consistent updates. <br>
 <!--
 <br>
 ## <span style="color:blue">**Deep Learning**</span> Model Development Workflows <br> <span style="color:orange">**TensorFlow**</span> and <span style="color:red">**Keras**</span><br>
