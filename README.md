@@ -14,15 +14,16 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 | **Image Classification with Covnets from Scratch** <br> **Transfer Learning** <br> **Fine Tuning** |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | **Sequence Modeling with Transformers** <br> **Generative AI** <br> |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 -->
-## ML Model Development Workflows, with TensorFlow and Keras<br>
-| Project | Dataset| Repository | Video Tutorial |  
+
+## ML Model Development Workflows, with TensorFlow and Keras
+| Project | Data Source| Repository | Video Tutorial |  
 |--------:|:----------:|:--------:|:----------:|
 | Deep Learning for Time Series Forecasting <br> with LSTMs and GRUs | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
 
 ## Production Deployment Workflows, Google Cloud Platform
-| Project | Dataset| Repository | Video Tutorial |
+| Project | Data Source| Repository | Video Tutorial |
 |----------|----------|:--------:|:--------:|
-Streaming Data Piplines on Google Cloud | NYC Realtime<bR> Subway Updates | [Streaming Data Pipelines](https://github.com/DanHerman212/streaming-systems) | Coming Soon|
+Streaming Data Piplines on Google Cloud | [MTA Event Feed](https://api.mta.info/#/subwayRealTimeFeeds) | [Streaming Data Pipelines](https://github.com/DanHerman212/streaming-systems) | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
 ### I welcome opportunities to <span style=color:orange>collaborate</span>, share knowledge and provide mentorship.</span> <br>
