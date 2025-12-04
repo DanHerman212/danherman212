@@ -3,8 +3,7 @@
 </font>
 <font size="4">Thank you for taking the time to visit my personal GitHub Space. <br>
 <br>
-I'm a full stack data scientist.  I enjoy developing end to end ML solutions<br>
-using TensorFlow, Keras and Google Cloud Platform. <br>
+I'm a full stack data scientist.  I enjoy developing end to end ML solutions using TensorFlow, Keras and Google Cloud Platform. <br>
 <br>
 I'm very passionate about helping people and democratizing AI to anyone who is interested in bringing it into their work.<br>  I'm going to systematically add production recipes here over time and always look to improve existing projects.  With that said, please monitor any repo of interest as you can exepct consistent updates. <br>
 <!--
