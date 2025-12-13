@@ -18,13 +18,13 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 ## ML Model Development Workflows
 | Project | Data Source| Repository | Video Tutorial |  
 |--------|:----------:|:--------:|:----------:|
-| Deep Learning for Time Series Forecasting with Tensorflow and Keras | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
+| Deep Learning for Time Series Forecasting <br> with Tensorflow and Keras | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
 
 ## Production Deployment Workflows
 | Project | Data Source| Repository | Video Tutorial |
 |----------|----------|:--------:|:--------:|
 | Machine Learning Pipelines with Vertex AI | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
-Stream Processing Systems on Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
+Stream Processing Systems <br> on Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
 ### I welcome opportunities to <span style=color:orange>collaborate</span>, share knowledge and provide mentorship.</span> <br>
