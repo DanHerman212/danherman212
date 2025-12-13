@@ -18,7 +18,7 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 ## ML Model Development Workflows
 | Project | Data Source| Repository | Video Tutorial |  
 |--------|:----------:|:--------:|:----------:|
-| Deep Learning for Time Series Forecasting <br> with Tensorflow and Keras | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
+| Deep Learning for Time Series Forecasting <br> with Tensorflow, Keras, N-HiTS and NeuralForecast | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
 
 ## Production Deployment Workflows
 | Project | Data Source| Repository | Video Tutorial |
