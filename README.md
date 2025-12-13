@@ -23,7 +23,7 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 ## Production Deployment Workflows, Google Cloud Platform
 | Project | Data Source| Repository | Video Tutorial |
 |----------|----------|:--------:|:--------:|
-Streaming Processing Systems on <br> Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
+Streaming Processing Systems on Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
 ### I welcome opportunities to <span style=color:orange>collaborate</span>, share knowledge and provide mentorship.</span> <br>
