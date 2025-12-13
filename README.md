@@ -15,7 +15,7 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 | **Sequence Modeling with Transformers** <br> **Generative AI** <br> |[**Kaggle <br> Melanoma Dataset**](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) | [**Image <br> Classification <br> Repo**](https://github.com/DanHerman212/image-classification)| [**YouTube**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 -->
 
-## ML Model Development Workflows, with TensorFlow and Keras
+## ML Model Development Workflows
 | Project | Data Source| Repository | Video Tutorial |  
 |--------|:----------:|:--------:|:----------:|
 | Deep Learning for Time Series Forecasting with Tensorflow and Keras | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
