@@ -23,7 +23,7 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 ## Production Deployment Workflows
 | Project | Data Source| Repository | Video Overview |
 |----------|----------|:--------:|:--------:|
-| Machine Learning Pipelines with Vertex AI | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Coming Soon | Coming Soon |
+| Machine Learning Pipelines with Vertex AI | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | [ML Pipelines on Vertex AI](https://github.com/DanHerman212/vertex-ai-ml-pipelines-time-series) | Coming Soon |
 Stream Processing Systems <br> on Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
