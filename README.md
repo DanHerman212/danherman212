@@ -16,14 +16,14 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 -->
 
 ## ML Model Development Workflows
-| Project | Data Source| Repository | Video Overview |  
+| Project | Data Source| Deliverable | Video Overview |  
 |--------|:----------:|:--------:|:----------:|
-| Deep Learning for Time Series Forecasting <br> with Tensorflow, Keras, N-HiTS and NeuralForecast | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Under Construction | Coming Soon |
+| Deep Learning for Time Series Forecasting <br> with Tensorflow, Keras, N-HiTS and NeuralForecast | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | [Jupyter Notebook](https://github.com/DanHerman212/vertex-ai-timeseries/tree/main/training_and_preprocessing_workflows)  | Coming Soon |
 
 ## Production Deployment Workflows
-| Project | Data Source| Repository | Video Overview |
+| Project | Data Source| Deliverable | Video Overview |
 |----------|----------|:--------:|:--------:|
-| Machine Learning Pipelines with Vertex AI | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | Under Construction | Coming Soon |
+| Machine Learning Pipelines with Vertex AI | [Subway Data NYC](https://subwaydata.nyc/explore-the-data) | [Github Repo](https://github.com/DanHerman212/vertex-ai-timeseries) | Coming Soon |
 Stream Processing Systems <br> on Google Cloud Platform | [MTA Subway Realtime Feeds](https://api.mta.info/#/subwayRealTimeFeeds) | This repo is under renovation <br> with new architecture comming soon | Coming Soon|
 <!--End to End ML on GCP with Vertex AI<br> Deep Learning for Time Series Forecasting |
 -->
