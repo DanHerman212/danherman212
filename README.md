@@ -11,9 +11,9 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 
 ### NYC Subway Arrival Time Prediction
 
-| Project  | Description| Domain| Key Technologies | 
-|:--------:|:----------:|:--------:|:----------:| 
-|Data Tier - ELT for Historic Subway Data to train ML models| Extracts files from archive, loads them into BigQuery (data warehouse) and applies first level transformations - Orchestrated with Apache Airflow and Cloud Run | Data Engineering | Python, SQL, BigQuery, Cloud Composer (Apache Airflow), Cloud Run, Cloud Scheduler |
-|ML Tier - ML Pipelines on Vertex AI | Extracts data from BigQuery, Preprocesses data for ML Training, Executes Training for two ML Models, Deploys ML models to production endpoints, Monitors ML performance for drift, initiates retraining cycles, keeps a metadata store for experiment tracking| Data Science, Timeseries Forecasting, Deep Learning,MLOps| Python, Docker, Kubeflow, TensorFlow, NeuralForecast, Jupyter, Makefile, Bash|
-Event Stream Tier - Stream Ingestion and Prediction Service| Deploys VM for ingestion, Ingests event feed from MTA, applies in flight transformations for data enrichment, calls prediction service, writes prediction outputs to nosql database to feed mobile app tier | MLOPs, Data Engineering | Python, Bash, TensorFlow, NeuralForecast, Makefile, Google Compute Engine, PubSub, Apache Beam, Dataflow, FastAPI, Firestore |
-Web/Moble App Tier - Consumer Application to Serve Predictions | Currently Being Built | Front End Development | Dart, Flutter, Firebase, Firestore |
+| Project | Description| Key Technologies | 
+|:--------:|:----------:|:--------:|
+Application| Mobile application, serves predictions to customers | Dart, Flutter, Firebase, Firestore |
+Stream Processing | Ingests data feed, processes event stream, calls predition endpoint| Python, Bash, TensorFlow, NeuralForecast, Makefile, Google Compute Engine, PubSub, Apache Beam, Dataflow, FastAPI, Firestore |
+|Machine Learning| Fully automated pipeline for model training, evaluation and deployment with metadata store| Python, Docker, Kubeflow, TensorFlow, NeuralForecast, Jupyter, Makefile, Bash|
+|Data  |Extracts files from archive, load into BigQuery, first level transformation | Python, SQL, BigQuery, Cloud Composer (Apache Airflow)|
