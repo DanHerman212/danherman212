@@ -15,5 +15,5 @@ I'm very passionate about helping people and democratizing AI to anyone who is i
 |:--------:|:----------:|:--------:|
 Application| Mobile application, serves predictions to customers | Dart, Flutter, Firebase, Firestore |
 Stream Processing | Ingests data feed, processes event stream, calls predition endpoint| Python, Bash, TensorFlow, NeuralForecast, Makefile, Google Compute Engine, PubSub, Apache Beam, Dataflow, FastAPI, Firestore |
-|Machine Learning| Fully automated pipeline for model training, evaluation and deployment with metadata store| Python, Docker, Kubeflow, TensorFlow, NeuralForecast, Jupyter, Makefile, Bash|
+|Machine Learning| Fully automated pipeline for data extraction, preprocessing, model training, evaluation and deployment with metadata store| Python, Docker, Kubeflow, TensorFlow, NeuralForecast, Jupyter, Makefile, Bash|
 |Data  |Extracts files from archive, load into BigQuery, first level transformation | Python, SQL, BigQuery, Cloud Composer (Apache Airflow)|
