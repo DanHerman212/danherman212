@@ -1,3 +1,4 @@
+<!--
 <font size="8">**Welcome**!</font><br>
 <br>
 </font>
@@ -17,3 +18,4 @@ Application| Mobile application, serves predictions to customers | Dart, Flutter
 Stream Processing | Ingests data feed, processes event stream, calls predition endpoint, writes to noSQL database| Python, Bash, TensorFlow, NeuralForecast, Makefile, Google Compute Engine, PubSub, Apache Beam, Dataflow, FastAPI, Firestore |
 |Machine Learning| Fully automated pipeline for data extraction, preprocessing, model training, evaluation and deployment with metadata store| Python, Docker, Kubeflow, TensorFlow, NeuralForecast, Jupyter, Makefile, Bash|
 |Data  |Extracts files from archive, load into BigQuery, first level transformation | Python, SQL, BigQuery, Cloud Composer (Apache Airflow)|
+-->
